@@ -1,3 +1,4 @@
 # learn-shell
 1.Comments
-2.variables 
+2.variable
+3.Redirectors
